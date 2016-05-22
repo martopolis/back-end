@@ -1,0 +1,27 @@
+#this document is based on the cost estimation of website
+#There are 3 major factors that actually matters are:
+#1)process behind it
+#2) team building it
+#3) functionality and integrations
+
+
+
+#The basic target should be running a page strength analysis at the very beginning
+# Which is  followed by alexa ranking and traffic analysis
+#Moreover traffic analysis should be carried out if the website is functional otherwise
+#strong web development isnot proportional to the traffic (sensitive issue)
+#Design is an important issue,to be involved while the cost is estimated.
+
+#The saber metrics way:
+#weighing each of the criteria is an important aspect as to simplify our decision making
+#Solution:
+#Run an analysis over all websites of the same genre(eg:ecommerce,tutorial,social network etc)
+#Analyzing how it performs and built in tech
+#weigh out all the criteria then,
+#proceed with saber metrics
+#calculate the points for the websites involved
+
+
+#Note: it is important to carefully prioritize every criteria (weighing them out carefully)
+
+
